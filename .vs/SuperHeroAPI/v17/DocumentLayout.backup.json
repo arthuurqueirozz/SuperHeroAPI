@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20250212201652_NameHeroEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperHeroAPI\\Migrations\\20250212201652_NameHeroEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\migrations\\20250210192508_placepropertyupdate30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\migrations\\20250210192508_placepropertyupdate30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\dtos\\superherobycityiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\dtos\\superherobycityiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\dtos\\superherobycityiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|solutionrelative:superheroapi\\dtos\\superherobycityiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B31F0B3-D069-4834-BC2B-A84FFF879A29}|SuperHeroAPI\\SuperHeroAPI.csproj|c:\\users\\arthur queiroz\\source\\repos\\superheroapi\\superheroapi\\entities\\suit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250212201652_NameHeroEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20250212201652_NameHeroEntity.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Migrations\\20250212201652_NameHeroEntity.cs",
+              "ToolTip": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20250212201652_NameHeroEntity.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Migrations\\20250212201652_NameHeroEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:16:52.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250210192508_PlacePropertyUpdate30.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20250210192508_PlacePropertyUpdate30.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Migrations\\20250210192508_PlacePropertyUpdate30.cs",
+              "ToolTip": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\20250210192508_PlacePropertyUpdate30.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Migrations\\20250210192508_PlacePropertyUpdate30.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:14:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "SuperHeroAPI\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:14:17.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SuperHeroController.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Controllers\\SuperHeroController.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI\\Controllers\\SuperHeroController.cs",
               "ToolTip": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Controllers\\SuperHeroController.cs",
               "RelativeToolTip": "SuperHeroAPI\\Controllers\\SuperHeroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T18:32:42.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SuperHeroByCityIdDTO.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\DTOs\\SuperHeroByCityIdDTO.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI\\DTOs\\SuperHeroByCityIdDTO.cs",
@@ -59,12 +110,11 @@
               "RelativeToolTip": "SuperHeroAPI\\DTOs\\SuperHeroByCityIdDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:26:36.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T18:26:36.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Place.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Entities\\Place.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI\\Entities\\Place.cs",
@@ -72,12 +122,11 @@
               "RelativeToolTip": "SuperHeroAPI\\Entities\\Place.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:38:40.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T13:38:40.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Suit.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Entities\\Suit.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI\\Entities\\Suit.cs",
@@ -85,25 +134,24 @@
               "RelativeToolTip": "SuperHeroAPI\\Entities\\Suit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T12:42:43.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T12:42:43.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SuperHero.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Entities\\SuperHero.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI\\Entities\\SuperHero.cs",
               "ToolTip": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Entities\\SuperHero.cs",
               "RelativeToolTip": "SuperHeroAPI\\Entities\\SuperHero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T18:29:26.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\source\\repos\\SuperHeroAPI\\SuperHeroAPI\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI\\Data\\DataContext.cs",

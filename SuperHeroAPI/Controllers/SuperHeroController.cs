@@ -31,20 +31,20 @@ namespace SuperHeroAPI.Controllers
             return Ok(heroes);
         }
 
-        [HttpPost]
-        public async Task<ActionResult<List<SuperHero>>> AddHero(SuperHero hero)
-        {
-            _context.SuperHeroes.Add(hero).FromSqlRaw($"Add_suit {}");
+        //[HttpPost]
+        //public async Task<ActionResult<List<SuperHero>>> AddHero(SuperHero hero)
+        //{
+        //    _context.SuperHeroes.Add(hero).FromSqlRaw($"Add_suit {}");
 
-            await _context.SaveChangesAsync();
+        //    await _context.SaveChangesAsync();
 
-            if (hero is null)
-                return NotFound();
+        //    if (hero is null)
+        //        return NotFound();
 
 
 
-            return Ok(await _context.SuperHeroes.ToListAsync());
-        }
+        //    return Ok(await _context.SuperHeroes.ToListAsync());
+        //}
 
         [HttpGet("{id}")]
         public async Task<ActionResult<List<SuperHero>>> ReturnCityHeroes(int id)
